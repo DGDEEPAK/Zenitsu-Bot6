@@ -32,7 +32,7 @@ Zenitsu-Bot-V6 Multi Device is a automated whatsapp bot developed by <a href="ht
 
 <a href="https://github.com/DGDEEPAK/Zenitsu-Bot6/"><img title="Size" src="https://img.shields.io/github/repo-size/DGDEEPAK/Zenitsu-Bot4?style=flat-square&color=green"></a>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGDEEPAK%2FZenitsu-Bot4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGDEEPAK%2FZenitsu-Bot6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 
 <a href="https://github.com/DGDEEPAK/Zenitsu-Bot6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
